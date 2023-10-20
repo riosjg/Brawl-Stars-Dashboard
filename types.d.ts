@@ -34,7 +34,7 @@ type Brawler = {
   };
   unlock: null;
   version: number;
-  videos: string[]; // 'any' is a placeholder since I don't know the type. You can replace 'any' with the appropriate type.
+  videos: string[];
 };
 
 type Gadget = {
